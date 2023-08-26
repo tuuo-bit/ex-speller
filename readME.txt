@@ -5,6 +5,7 @@ Please make sure your Python IDE has the following module/library installed:
 - tkinter
 - ttkbootstrap
 
+Keep the "word_list.txt" file handy, it is essential for the working.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 "ex-speller" is a simple permutation script and GUI written in Python that "expels" possible
