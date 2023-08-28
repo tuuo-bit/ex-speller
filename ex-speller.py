@@ -63,7 +63,7 @@ output_frame=tb.Frame( master=win, height=412.5, width=850, bootstyle="dark")
 output_frame.place( x=25, y=462.5)
 #output 
 output=tk.StringVar()
-output_label=tb.Label( master=output_frame, font="Bahnschrift 18", textvariable=output, wraplength=800, justify="left", padding=10, bootstyle="inverse-light")
+output_label=tb.Label( master=output_frame, font="Bahnschrift 14", textvariable=output, wraplength=800, justify="left", padding=10, bootstyle="inverse-light")
 output_label.place( x=15, y=15, height=382.5, width=820)
 #output heading
 tb.Label( master=output_frame, text="OUTPUT ", font="Bahnschrift 18 bold", bootstyle="inverse-dark").place( x=5, y=365)
