@@ -1,4 +1,4 @@
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/poYw76RdQrw)
+Here's how the GUI looks: https://youtu.be/poYw76RdQrw
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~IMPORTANT~
 
