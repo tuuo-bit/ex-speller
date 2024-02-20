@@ -1,9 +1,10 @@
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/poYw76RdQrw)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~IMPORTANT~
 
 Please make sure your Python IDE has the following module/library installed:
-- tkinter
-- ttkbootstrap
+- tkinter (python -m pip install tk)
+- ttkbootstrap (python -m pip install ttkbootstrap)
 
 Keep the "word_list.txt" file handy, it is essential for the working.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
